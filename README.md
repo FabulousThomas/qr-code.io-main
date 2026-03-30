@@ -1,0 +1,1 @@
+QR-Code.io is a versatile tool for creating both QR codes and barcodes, offering customization and tracking features. It supports various use cases, such as linking to websites, sharing contact info, facilitating payments, or encoding product data, with options to download and analyze usage.
